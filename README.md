@@ -16,7 +16,7 @@ It will send the mail if one of the following thing about price is satisfied:<br
 - Price Increase
 - Price Decrease <br>
 
-
+<img src="https://github.com/PriyanshT/track-amazon-price/blob/master/mail.jpg">
 
 If the project is to be kept working in the background, executable file is to be generated.<br>
 To do that:<br>
